@@ -1,0 +1,17 @@
+p{
+    font-size:20px;
+    font-family: "Comic Sans MS";
+    font-weight: bold;
+    color: #D61616;
+    text-align: justify;
+}
+main{
+    background-image: url(https://www.pixel4k.com/wp-content/uploads/2018/03/2017%20Ducati%20Multistrada%209503218817021.jpg);
+}
+header{
+    background-image: url(https://http2.mlstatic.com/letras-de-caucho-para-llanta-para-ducati-monster-D_NQ_NP_846367-MLM29757932170_032019-F.jpg)
+
+}
+footer{
+    background-color: seagreen;
+}
